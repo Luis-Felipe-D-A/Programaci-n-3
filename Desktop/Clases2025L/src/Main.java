@@ -8,7 +8,7 @@ import Clases.Persona;
 
 /**
  *
- * @author Estudiantes
+ * @author Luis
  */
 public class Main {
 
